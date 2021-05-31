@@ -1,0 +1,22 @@
+{
+  "name": "reymon",
+  "version": "1.0.0",
+  "description": "Activity 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reymon71/Reymon.git"
+  },
+  "author": "Reymon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reymon71/Reymon/issues"
+  },
+  "homepage": "https://github.com/reymon71/Reymon#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
